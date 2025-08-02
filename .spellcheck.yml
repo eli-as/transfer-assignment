@@ -4,6 +4,6 @@ matrix:
   sources:
   - "**/*.txt"
   - "**/*.md"
-  custom_dictionary:
+  ignore_words:
     - Git's
     - init

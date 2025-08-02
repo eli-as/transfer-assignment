@@ -1,0 +1,3 @@
+# The Last Commit
+
+Lena sat at her cluttered desk, the soft hum of her computer fan filling the silence of the late-night office. The glow of her screen illuminated the dark room, and all that stood between her and the project's final release was a single commit. She ran her fingers through her tangled hair and stared at the blinking cursor in the terminal. It was supposed to be a simple fix — a bug that should have been resolved hours ago — but something was holding her back.
